@@ -5,7 +5,7 @@ This guide walks through the current workflow implemented in the repo.
 ## 1. Install and run
 
 ```bash
-git clone https://github.com/graphicmismatch/WASRTK.git
+git clone https://github.com/graphicmismatch-tools/WASRTK.git
 cd WASRTK
 npm install
 npm start

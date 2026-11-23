@@ -15,7 +15,7 @@ GIF export uses a vendored copy of `gif.js`/`gif.worker.js` (`vendor/gif/`) rath
 ## Install
 
 ```bash
-git clone https://github.com/graphicmismatch/WASRTK.git
+git clone https://github.com/graphicmismatch-tools/WASRTK.git
 cd WASRTK
 npm install
 ```

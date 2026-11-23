@@ -112,7 +112,7 @@ This roadmap expands WASRTK from a focused animation sketch tool into a full-fea
 ## Getting started
 
 ```bash
-git clone https://github.com/graphicmismatch/WASRTK.git
+git clone https://github.com/graphicmismatch-tools/WASRTK.git
 cd WASRTK
 npm install
 npm start
